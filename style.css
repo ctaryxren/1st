@@ -1,0 +1,28 @@
+.block{
+
+	height: 50px;
+	width: 100px;
+	background-color: red;
+	display: inline-block;
+	
+	
+}
+.block1{
+	
+	height: 90px;
+	width: 30px;
+	background-color: blue;
+	display: inline-block;
+}
+.block2{
+	height: 90px;
+	width: 50px;
+	background-color:  black;
+	display: inline-block;
+}
+.teext_line{
+	font-size: 64px;
+}
+.button_wrapper{
+	padding-top: 120px;
+}
